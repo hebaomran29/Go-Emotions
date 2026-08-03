@@ -1,5 +1,5 @@
 # Emotion Classification on GoEmotions
-https://github.com/hebaomran29/Go-Emotions/issues/1
+
 **A comparative study of LSTM, BiLSTM+Attention, GRU, and DistilBERT for 6-class emotion classification from text, with an interactive web interface.**
 
 ---
@@ -265,7 +265,7 @@ Classify the emotion of a text sentence using the fine-tuned DistilBERT V8 model
 | `confidence` | `float` | Softmax probability of the predicted class |
 | `probabilities` | `object` | Probability for **all 6** emotion classes |
 
-### `GET /health`
+### `GET /health.`
 
 Health check endpoint.
 
@@ -403,4 +403,4 @@ The main error patterns:
 
 ## License
 
-This project is for educational and research purposes. The GoEmotions dataset is released by Google Research under the Apache 2.0 license. DistilBERT is released by Hugging Face under the Apache 2.0 license.
+This project is for educational and research purposes. Google Research releases the GoEmotions dataset under the Apache 2.0 license. Hugging Face releases DistilBERT under the Apache 2.0 license.
