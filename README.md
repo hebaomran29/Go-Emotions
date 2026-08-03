@@ -1,5 +1,5 @@
 # Emotion Classification on GoEmotions
-
+https://github.com/hebaomran29/Go-Emotions/issues/1
 **A comparative study of LSTM, BiLSTM+Attention, GRU, and DistilBERT for 6-class emotion classification from text, with an interactive web interface.**
 
 ---
